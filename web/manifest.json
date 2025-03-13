@@ -1,6 +1,6 @@
 {
-    "name": "edu_guard",
-    "short_name": "edu_guard",
+    "name": "eduguard",
+    "short_name": "eduguard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
