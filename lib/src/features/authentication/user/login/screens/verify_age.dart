@@ -54,7 +54,7 @@ class _VerifyAgeState extends State<VerifyAge> {
       );
 
       var request = http.MultipartRequest(
-          'POST', Uri.parse('http://192.168.220.249:5000/ageVerification'));
+          'POST', Uri.parse('http://192.168.43.159:5000/ageVerification'));
 
       request.files
           .add(await http.MultipartFile.fromPath('NIC', nicImage!.path));

@@ -22,7 +22,7 @@ class _SOSHomePageState extends State<SOSHomePage> {
             title: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text('Hello, Matteo Perera...', style: TextStyle(fontSize: 14.0, color:Colors.grey),),
+                Text('Hello,...', style: TextStyle(fontSize: 14.0, color:Colors.grey),),
                 Text('Emergency SOS System.', style: TextStyle(fontSize: 16.0),)
               ],
             ),

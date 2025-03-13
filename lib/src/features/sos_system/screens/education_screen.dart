@@ -21,7 +21,7 @@ class _EducationScreenState extends State<EducationScreen> {
     super.initState();
   }
 
-  final String selectedEmail = "it20025212@my.sliit.lk";
+  final String selectedEmail = "hiransasitha512@gmail.com";
 
   @override
   Widget build(BuildContext context) {
