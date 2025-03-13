@@ -21,7 +21,7 @@ class _EducationScreenState extends State<EducationScreen> {
     super.initState();
   }
 
-  final String selectedEmail = "hiransasitha512@gmail.com";
+  final String selectedEmail = "it20025212@my.sliit.lk";
 
   @override
   Widget build(BuildContext context) {
@@ -39,11 +39,14 @@ class _EducationScreenState extends State<EducationScreen> {
               } else {
                 final prefs = snapshot.data;
                 final email = prefs?.getString('email') ?? '';
+                print("User email from SharedPreferences: $email");
 
                 if (email == selectedEmail) {
+                  print("12348888888888888888888888");
                   return IconButton(
                     icon: const Icon(Icons.add),
                     onPressed: () {
+
                       _showAddCardDialog(context);
                     },
                   );
