@@ -3,16 +3,16 @@
     "platforms": {
       "android": {
         "default": {
-          "projectId": "eduguard-r24-141",
-          "appId": "1:1061351845450:android:8e05254961e74ca92bc0b3",
+          "projectId": "edu-guard-81235",
+          "appId": "1:312610542911:android:8f55eb7b50dd63abfa6f8a",
           "fileOutput": "android/app/google-services.json"
         }
       },
       "dart": {
         "lib/firebase_options.dart": {
-          "projectId": "eduguard-r24-141",
+          "projectId": "edu-guard-81235",
           "configurations": {
-            "android": "1:1061351845450:android:8e05254961e74ca92bc0b3"
+            "android": "1:312610542911:android:8f55eb7b50dd63abfa6f8a"
           }
         }
       }

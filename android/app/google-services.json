@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1061351845450",
-    "project_id": "eduguard-r24-141",
-    "storage_bucket": "eduguard-r24-141.appspot.com"
+    "project_number": "312610542911",
+    "project_id": "edu-guard-81235",
+    "storage_bucket": "edu-guard-81235.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1061351845450:android:8e05254961e74ca92bc0b3",
+        "mobilesdk_app_id": "1:312610542911:android:8f55eb7b50dd63abfa6f8a",
         "android_client_info": {
           "package_name": "com.example.eduguard"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA0tR0bvMTTQQqkSPXqQydL9iaXCKR96Dc"
+          "current_key": "AIzaSyDMZipUqw-3kCQo_0QfUDeewUg6kHX8Q5E"
         }
       ],
       "services": {

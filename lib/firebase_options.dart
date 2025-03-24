@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA0tR0bvMTTQQqkSPXqQydL9iaXCKR96Dc',
-    appId: '1:1061351845450:android:8e05254961e74ca92bc0b3',
-    messagingSenderId: '1061351845450',
-    projectId: 'eduguard-r24-141',
-    storageBucket: 'eduguard-r24-141.appspot.com',
+    apiKey: 'AIzaSyDMZipUqw-3kCQo_0QfUDeewUg6kHX8Q5E',
+    appId: '1:312610542911:android:8f55eb7b50dd63abfa6f8a',
+    messagingSenderId: '312610542911',
+    projectId: 'edu-guard-81235',
+    storageBucket: 'edu-guard-81235.appspot.com',
   );
 }

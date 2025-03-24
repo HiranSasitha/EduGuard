@@ -19,6 +19,7 @@ void main() async{
 
   //Initialize firebase
   await Firebase.initializeApp(
+    name: "edu-guard-81235",
     options: DefaultFirebaseOptions.currentPlatform,
   ).then((FirebaseApp value) => Get.put(AuthenticationRepository()));
 
